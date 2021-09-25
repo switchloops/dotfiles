@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = meetbyron@gmail.com
+	name = Byron Lee
